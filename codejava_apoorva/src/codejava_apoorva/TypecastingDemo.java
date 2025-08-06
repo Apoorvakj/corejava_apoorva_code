@@ -3,7 +3,7 @@ package codejava_apoorva;
 public class TypecastingDemo {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
 												//widening 
 				int quatity=3;
 				double priceperitem=99.50;
